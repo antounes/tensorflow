@@ -1,4 +1,2 @@
-data/taxi-train.csv
-data/taxi-test.csv
-.ipynb_checkpoints/
-data/.ipynb_checkpoints/
+introduction-to-tensorflow/data/
+introduction-to-tensorflow/.ipynb_checkpoints/
